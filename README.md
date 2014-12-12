@@ -6,9 +6,9 @@ This is an AWK-based player for Simon Jansen's ASCIIMATION Star Wars [http://www
 Usage
 -----
 
-Simple call this Python script by using the sample movie file:
+Simply call this bad boy as follows:
 
-  $ ./asciimation.awk data/sw1.txt
+- `$ ./asciimation.awk data/sw1.txt`
 
 License
 -------
