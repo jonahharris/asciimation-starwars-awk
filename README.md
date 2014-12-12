@@ -3,6 +3,8 @@ AWK-based ASCIIMATION Star Wars
 
 This is an AWK-based player for Simon Jansen's ASCIIMATION Star Wars [http://www.asciimation.co.nz/](http://www.asciimation.co.nz/)  
 
+<img src="https://github.com/jonahharris/asciimation-starwars-awk/raw/master/screenshot/asciimation.png"/>
+
 Usage
 -----
 
